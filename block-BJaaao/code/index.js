@@ -59,5 +59,6 @@ alert(Number(numA) - Number(numB))
 alert(Number(numA) * Number(numB))
 console.log(Number(numA) - Number(numB))
 console.log(Number(numA) * Number(numB))
+console.log(Number(numA) * Number(numB))
 
 
